@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS/PHP/WORDPRESS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alihussain24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ali Hussain)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alihussain24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100053924090584)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alihussain24)](https://github.com/anuraghazra/github-readme-stats)
 
