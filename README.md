@@ -4,7 +4,7 @@
 #### Web Developer
 
 
-I'm a Full Stack Web Developer,
+I'm a Web Developer,
 
 Skills:  REACT / JS / HTML / CSS/PHP/WORDPRESS
 
