@@ -1,6 +1,8 @@
+![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-1/p240x240/122570512_155717616235707_4740575384334848521_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_ohc=NfK9JTjjVAAAX-vL0_7&_nc_ht=scontent.fdac5-2.fna&oh=404593659f67d680a85ae09a1b2f4e82&oe=618ACEF6)
+
 ### Hi there 👋, Ali Hussain
 #### Web Developer
-![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-1/p240x240/122570512_155717616235707_4740575384334848521_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_ohc=NfK9JTjjVAAAX-vL0_7&_nc_ht=scontent.fdac5-2.fna&oh=404593659f67d680a85ae09a1b2f4e82&oe=618ACEF6)
+
 
 I'm a Full Stack Web Developer,
 
