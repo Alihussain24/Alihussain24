@@ -26,4 +26,3 @@ Skills:  REACT / JS / HTML / CSS/PHP/WORDPRESS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Alihussain24)  
 
-![Profile views](https://gpvc.arturio.dev/Alihussain24)  
