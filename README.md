@@ -4,9 +4,9 @@
 #### Web Developer
 
 
-I'm a Web Developer,
+I'm a Full Stack Web Developer,
 
-Skills:  REACT / JS / HTML / CSS/PHP/WORDPRESS
+Skills: html/css/styled-component/tailwind-css/bootstrap /material-ui/ php (basic) / wordpress/ react/ nextjs/nodejs/expressjs /mongodb/mysql/
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning node js 
