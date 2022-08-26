@@ -6,7 +6,7 @@
 
 I'm a Full Stack Web Developer,
 
-Skills: html/css/styled-component/tailwind-css/bootstrap /material-ui/ php (basic) / wordpress/ react/ nextjs/nodejs/expressjs /mongodb/mysql/
+Skills: html/css/styled-component/sass/tailwind-css/bootstrap /material-ui/ php (basic) / wordpress/ react/ nextjs/nodejs/expressjs /mongodb/mysql/
 
 - 🔭 I’m currently working on mern stack 
 
